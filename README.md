@@ -16,9 +16,14 @@ The goal of this project is to help users stay accountable to their routines by 
 
 ## Tech Stack
 
-- Frontend: [Add your frontend here]
-- Backend: [Add your backend here]
-- Database: [Add your database here]
+- Language: Swift
+- UI Framework: SwiftUI
+- Data Persistence: SwiftData
+- Architecture: MVVM
+- Charts and progress visuals: Swift Charts
+- Local notifications: UserNotifications
+- Version control: Git + GitHub
+- IDE: Xcode
 
 ## Getting Started
 
